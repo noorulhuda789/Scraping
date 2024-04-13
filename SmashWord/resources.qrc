@@ -1,0 +1,17 @@
+<RCC>
+  <qresource>
+    <file>searching.png</file>
+    <file>sorting.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="newPrefix">
+    <file>ca0f4ac4d672c9561caa841377b41bc0.jpg</file>
+    <file>Book.png</file>
+    <file>home-removebg-preview.png</file>
+    <file>scraping-removebg-preview.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>R.jfif</file>
+  </qresource>
+</RCC>
