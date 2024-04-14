@@ -4,12 +4,6 @@
 
 This Python project utilizes Beautiful Soup for efficient parsing and (optionally) Selenium for handling dynamic elements to scrape data from the Smash Word website. The scraped data can be sorted using customizable algorithms and searched based on specific criteria.
 
-## Ethical Considerations
-
-- Always respect website terms of service and robots.txt guidelines.
-- Implement rate limiting and polite scraping practices to avoid overloading the server.
-- Consider the potential impact of your scraping on the website's performance and stability.
-
 ## Installation
 
 1. Clone this repository:
@@ -21,7 +15,7 @@ This Python project utilizes Beautiful Soup for efficient parsing and (optionall
 2. Install required dependencies:
 
     ```bash
-    pip install beautifulsoup4 requests  # Adjust dependencies based on your needs
+    pip install beautifulsoup4 
     ```
 
 ## Usage
@@ -39,10 +33,10 @@ This Python project utilizes Beautiful Soup for efficient parsing and (optionall
         Copy code
         python scrape_with_selenium.py
 ## Data Sorting
-Replace the provided basic bubble sort implementation with your preferred sorting algorithm (e.g., merge sort, quick sort) in either script.
+Applying sorting algorithms to sort the data .There are  linear sorting algo.
 
 ## Data Searching
-Customize the provided basic search function to search based on different criteria in either script.
+Binary search is availble by different   Filters.
 
 ## Qt Designer Integration (optional)
 Integrate a user interface created using Qt Designer with the scraping and manipulation logic using PyQt.
