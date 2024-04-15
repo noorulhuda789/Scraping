@@ -9,7 +9,7 @@ This Python project utilizes Beautiful Soup for efficient parsing and (optionall
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/<your-username>/smash-word-scraper.git
+    git clone https://github.com/noorulhuda789/Scraping
     ```
 
 2. Install required dependencies:
